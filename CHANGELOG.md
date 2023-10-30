@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Fixed
 
 - (Linux) Sandbox exceptions for symbolic links
+- (Linux) Symlink/Canonical path's exceptions overriding each other
 
 ## [v0.5.0] - 2023-10-13
 
